@@ -1,2 +1,2 @@
 # StockPredictor
-A python script to predict stock prices using lstm.
+A Seq2seq model made using keras to predict stock prices using lstm.
