@@ -6,19 +6,14 @@
 
 ## Usage
 
-<code>
 
-cd directory
+'cd directory
 
-git clone https://github.com/hb2kang/Stock_LSTM.git
+git clone https://github.com/hb2kang/Stock_LSTM.git'
 
-</code>
+'cd file directory
 
-<code>
-
-cd file directory
-
-python Stock_LSTM.py
+python Stock_LSTM.py'
 
 </code>
 
