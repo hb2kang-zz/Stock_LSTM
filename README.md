@@ -7,19 +7,18 @@
 ## Usage
 
 
-'''
+```
 cd directory
 
 git clone https://github.com/hb2kang/Stock_LSTM.git'
 
-'''
+```
 
-'''
+```
 cd file directory
 
-
 python Stock_LSTM.py
-'''
+```
 
 ## Comments
 
