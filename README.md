@@ -6,13 +6,15 @@
 
 ## Usage
 
+### Clone
 
 ```
 cd directory
 
 git clone https://github.com/hb2kang/Stock_LSTM.git'
-
 ```
+
+### Run 
 
 ```
 cd file directory
