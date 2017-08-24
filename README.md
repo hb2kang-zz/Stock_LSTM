@@ -2,7 +2,7 @@
 
 ## Overview
 
-### A Seq2seq model made using keras to predict stock prices using lstm.
+### A Seq2seq model that predicts stock prices using keras.
 
 ## Usage
 
